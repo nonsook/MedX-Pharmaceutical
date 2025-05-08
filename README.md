@@ -15,3 +15,10 @@ MedX Pharma is experiencing growing operational complexity due to an expanding p
 However, its reliance on flat Excel files for storing critical sales, customer, and distribution data has created challenges in performance monitoring and insight generation. 
 The absence of a centralized data system and reporting solution prevents management from accurately identifying top-performing products, sales representatives, and regions, thereby limiting their ability to make timely, data-driven business decisions. 
 This project aims to develop a structured data model and interactive reporting dashboard to support strategic decision-making and operational efficiency.
+
+## Project Aim
+- This project aims to transform MedX Pharm’s flat file data into a normalized and structured data model using Power BI
+- Build an interactive dashboard to analyze product sales, customer behavior and sales trend
+- Enable data-driven decision-making and improve visibility into sales and distribution operations.
+
+
