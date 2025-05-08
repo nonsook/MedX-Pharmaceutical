@@ -1,0 +1,15 @@
+# MedX-Pharma
+Transformation of MedX Pharma flat file data into a normalized and structured data model and interactive dashboard design using Power BI
+
+![Generate a pic of MedX Pharma building, a pharmaceutical sales and distribution company operating across states in the US](https://github.com/user-attachments/assets/4fd36a82-67c2-46e6-b068-0c56433a80fd)
+
+## Business Overview
+MedX Pharma is a top pharmaceutical sales and distribution company with operations spanning several U.S. states. 
+It collaborates with healthcare distributors, hospitals, and retail pharmacies to ensure the prompt delivery of premium-quality medications. 
+The company oversees a diverse portfolio of pharmaceutical products, manages multiple warehouses, and partners with sales representatives and third-party distributors to broaden its market presence and meet growing demand.
+
+## Problem Statement
+MedX Pharma is experiencing growing operational complexity due to an expanding product portfolio, a larger customer base, and increased sales activities across multiple regions. 
+However, its reliance on flat Excel files for storing critical sales, customer, and distribution data has created challenges in performance monitoring and insight generation. 
+The absence of a centralized data system and reporting solution prevents management from accurately identifying top-performing products, sales representatives, and regions, thereby limiting their ability to make timely, data-driven business decisions. 
+This project aims to develop a structured data model and interactive reporting dashboard to support strategic decision-making and operational efficiency.
