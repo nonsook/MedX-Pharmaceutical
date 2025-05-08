@@ -1,7 +1,9 @@
 # MedX-Pharma
 Transformation of MedX Pharma flat file data into a normalized and structured data model and interactive dashboard design using Power BI
 
-![Generate a pic of MedX Pharma building, a pharmaceutical sales and distribution company operating across states in the US](https://github.com/user-attachments/assets/4fd36a82-67c2-46e6-b068-0c56433a80fd)
+![Medx pic](https://github.com/user-attachments/assets/ca572576-e2a0-4ef1-bcfa-8ebc7acc5531)
+
+
 
 ## Business Overview
 MedX Pharma is a top pharmaceutical sales and distribution company with operations spanning several U.S. states. 
