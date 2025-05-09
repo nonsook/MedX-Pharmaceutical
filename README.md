@@ -136,7 +136,7 @@ Use current growth trends to set accurate sales and supply chain projections for
 
 
 ## :round_pushpin: Conclusion
-MedX demonstrated a solid performance in 2024, achieving strong revenue growth, consistent sales volumes, and high engagement across key customer segments. Clinics and hospitals were the primary revenue drivers, supported by a small but valuable customer base. However, there remains untapped potential in underserved geographic regions and among mid-tier customer types.
+**MedX** demonstrated a solid performance in **2024**, achieving strong revenue growth, consistent sales volumes, and high engagement across key customer segments. Clinics and hospitals were the primary revenue drivers, supported by a small but valuable customer base. However, there remains untapped potential in underserved geographic regions and among mid-tier customer types.
 Operationally, there are clear opportunities to boost efficiency—especially in sales rep deployment, warehouse load balancing, and order fulfillment. Strategic refinement in distributor partnerships, discount management, and product focus (especially underperforming categories like antibiotics) will be critical to sustaining growth.
 To maintain momentum into **2025**, MedX should focus on geographic expansion, deepen relationships with top clients and high-value customer segments, optimize internal operations, and use data-driven forecasting to align inventory and sales targets. With the right strategic adjustments, MedX is well-positioned to scale its impact and profitability across a broader market.
  
