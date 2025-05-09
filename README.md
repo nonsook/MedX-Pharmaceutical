@@ -30,13 +30,11 @@ Created additional columns and calculated measures with DAX functions. Finally, 
 ![MedX data Model](https://github.com/user-attachments/assets/5da1b399-08f5-4b93-821f-eb3a961e85d2)
 
 ## Dashboards
-### Customer Analysis
+
 ![MedX 1](https://github.com/user-attachments/assets/492b8d92-2183-4f24-897c-907b865c1e6f)
 
-### Product Analysis
 ![MedX2](https://github.com/user-attachments/assets/44e6fa41-4202-4ed8-aa63-b50ca8527d59)
 
-### Sales Trend
 ![MedX33](https://github.com/user-attachments/assets/926d64b0-079b-4b86-9099-0265742422f5)
 
 
