@@ -47,6 +47,7 @@ Created additional columns and calculated measures with DAX functions. Finally, 
 MedX recorded a strong performance in 2024, achieving a total revenue of $12.21M, with month-over-month (MoM) growth of 10.31%. Previous month (PM) revenue stood at $11.07M. Sales volumes and orders also showed consistent growth, highlighting effective customer engagement and operational execution.
 
 - Revenue by Customer Type:
+  
 :white_check_mark: Clinics (27.9%) and Hospitals (27.5%) are the top contributors to revenue.
 :white_check_mark: Wholesalers (23.7%) and Pharmacies (20.9%) follow.
 
