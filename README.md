@@ -11,7 +11,7 @@ It collaborates with healthcare distributors, hospitals, and retail pharmacies t
 The company oversees a diverse portfolio of pharmaceutical products, manages multiple warehouses, and partners with sales representatives and third-party distributors to broaden its market presence and meet growing demand.
 
 ## Problem Statement
-MedX Pharma is experiencing growing operational complexity due to an expanding product portfolio, a larger customer base, and increased sales activities across multiple regions. 
+The company is experiencing growing operational complexity due to an expanding product portfolio, a larger customer base, and increased sales activities across multiple regions. 
 However, its reliance on flat Excel files for storing critical sales, customer, and distribution data has created challenges in performance monitoring and insight generation. 
 The absence of a centralized data system and reporting solution prevents management from accurately identifying top-performing products, sales representatives, and regions, thereby limiting their ability to make timely, data-driven business decisions. 
 
