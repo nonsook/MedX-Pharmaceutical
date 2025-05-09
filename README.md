@@ -70,12 +70,13 @@ MedX recorded a strong performance in 2024, achieving a total revenue of $12.21M
 
 → There seems to be heavy reliance on a few key clients.
 
-- Geographic Revenue Distribution
+#### Geographic Revenue Distribution
 
-Michigan ($1.667M) and New York ($1,665M) generated the highest revenue. States like Nevada, Texas, Illinois, Montana, California, Arizona and Georgia also show strong engagement.
-Several states show no activity — signaling large space for expansion.
+:small_blue_diamond: Michigan ($1.667M) and New York ($1,665M) generated the highest revenue. States like Nevada, Texas, Illinois, Montana, California, Arizona and Georgia also show strong engagement.
 
-### Recommendations
+:small_blue_diamond: Several states show no activity — signaling large space for expansion.
+
+### :bulb: Recommendations
 1.	Expand Geographic Reach
 Target underserved regions with focused marketing and distributor partnerships.
 2.	Deepen High-Value Segments
