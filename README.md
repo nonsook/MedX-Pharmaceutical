@@ -30,7 +30,7 @@ Created additional columns and calculated measures with DAX functions. Finally, 
 ![MedX data Model](https://github.com/user-attachments/assets/5da1b399-08f5-4b93-821f-eb3a961e85d2)
 
 ## Dashboards
-### [(Click to interact with Dashboard live)](https://app.powerbi.com/view?r=eyJrIjoiZTQ0NzJmYjItYmViZS00OGU3LWJmZWYtZjk4ZDVlOTVmMmM1IiwidCI6ImZmMGYzZTNhLTNlNTMtNDU0Zi1iMmI1LTZjNjg3NTNiOGVlNCJ9&embedImagePlaceholder=true&pageName=7a7cd65105bc46961040)
+### (Click [(here)](https://app.powerbi.com/view?r=eyJrIjoiZTQ0NzJmYjItYmViZS00OGU3LWJmZWYtZjk4ZDVlOTVmMmM1IiwidCI6ImZmMGYzZTNhLTNlNTMtNDU0Zi1iMmI1LTZjNjg3NTNiOGVlNCJ9&embedImagePlaceholder=true&pageName=7a7cd65105bc46961040) to interact with Dashboard live)
 
 ![MedX 1](https://github.com/user-attachments/assets/492b8d92-2183-4f24-897c-907b865c1e6f)
 
