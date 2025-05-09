@@ -48,17 +48,20 @@ MedX recorded a strong performance in 2024, achieving a total revenue of $12.21M
 
 - Revenue by Customer Type:
   
-:white_check_mark: Clinics (27.9%) and Hospitals (27.5%) are the top contributors to revenue.
+:small_blue_diamond: Clinics (27.9%) and Hospitals (27.5%) are the top contributors to revenue.
 
-:white_check_mark: Wholesalers (23.7%) and Pharmacies (20.9%) follow.
+:small_blue_diamond: Wholesalers (23.7%) and Pharmacies (20.9%) follow.
 
 - Customer Base: 
-Total Customers: 50
-Distributors: 10
-Average Discount: 7.4%
+
+:small_blue_diamond: Total Customers: 50
+
+:small_blue_diamond: Distributors: 10
+
+:small_blue_diamond: Average Discount: 7.4%
 
 → A relatively small but possibly high-value customer base with a moderate discount strategy.
--
+
 - Top Customers
 Top 10 customers each generate $275K–$357K, accounting for a significant portion of revenue.
 Top customer: Rivera with $357K revenue.
