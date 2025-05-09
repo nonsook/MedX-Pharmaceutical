@@ -90,7 +90,32 @@ Ensure discount levels support profitability by analyzing margins by customer se
 6.	Forecast Growth Strategically
 Use current growth trends to set accurate sales and supply chain projections for 2025.
 
+### Product Analysis 
+#### Revenue Distribution
 
+:small_blue_diamond: Antiseptics (26.93%) and Vaccines (21.81%) are the top product categories.
+
+:small_blue_diamond: Antibiotics contribute the least at only 14.73%, suggesting lower demand or competition.
+
+#### Warehouse Performance
+
+:small_blue_diamond: Warehouse C handles 67.28% of orders, indicating high efficiency or capacity compared to Warehouse B (32.72%).
+
+#### Top Products
+
+:small_blue_diamond: Paracetamol leads with $343K, followed by Fluconazole at $324K  
+
+#### Distributor Revenue
+
+:small_blue_diamond: Johnson PLC leads with $1.38M in revenue, closely followed by Wagner and Nichols. 
+
+:small_blue_diamond: The top 10 distributors perform within a comparable revenue range, indicating a balanced contribution across key partners.
+
+### :bulb: Business Recommendations
+1.	Investigate why Antibiotics underperform. Consider adjusting marketing or pricing strategies or discontinuing the product.
+2.	Assess why Warehouse C handles most orders—consider scaling its operations or reallocating resources to Warehouse B for balance.
+3.	Sales Rep Productivity: With 20 representatives handling 200 products, consider implementing product specialization or assigning reps by region to enhance efficiency.
+4.	Reinforce relationships with top-performing distributors and introduce incentive programs to boost performance among mid-tier partners.
 
 
 
