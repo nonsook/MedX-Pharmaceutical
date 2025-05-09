@@ -38,7 +38,7 @@ Created additional columns and calculated measures with DAX functions. Finally, 
 
 ![MedX33](https://github.com/user-attachments/assets/926d64b0-079b-4b86-9099-0265742422f5)
 
-### [(Click to interact with Dashboard live)](https://app.powerbi.com/view?r=eyJrIjoiZTQ0NzJmYjItYmViZS00OGU3LWJmZWYtZjk4ZDVlOTVmMmM1IiwidCI6ImZmMGYzZTNhLTNlNTMtNDU0Zi1iMmI1LTZjNjg3NTNiOGVlNCJ9&embedImagePlaceholder=true&pageName=7a7cd65105bc46961040)
+### (Click [(here)](https://app.powerbi.com/view?r=eyJrIjoiZTQ0NzJmYjItYmViZS00OGU3LWJmZWYtZjk4ZDVlOTVmMmM1IiwidCI6ImZmMGYzZTNhLTNlNTMtNDU0Zi1iMmI1LTZjNjg3NTNiOGVlNCJ9&embedImagePlaceholder=true&pageName=7a7cd65105bc46961040) to interact with Dashboard live)
 
 
 ## Key Findings
