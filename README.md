@@ -6,7 +6,7 @@ Transformation of MedX Pharma flat file data into a normalized and structured da
 
 
 ## Business Overview
-MedX Pharma is a top pharmaceutical sales and distribution company with operations spanning several U.S. states. 
+**MedX Pharma** is a top pharmaceutical sales and distribution company with operations spanning several U.S. states. 
 It collaborates with healthcare distributors, hospitals, and retail pharmacies to ensure the prompt delivery of premium-quality medications. 
 The company oversees a diverse portfolio of pharmaceutical products, manages multiple warehouses, and partners with sales representatives and third-party distributors to broaden its market presence and meet growing demand.
 
@@ -44,7 +44,7 @@ Created additional columns and calculated measures with DAX functions. Finally, 
 ## Key Performance Insights & Recommendations
 ### Customer Analysis
 
-MedX recorded a strong performance in 2024, achieving a total revenue of $12.21M, with month-over-month (MoM) growth of 10.31%. Previous month (PM) revenue stood at $11.07M. Sales volumes and orders also showed consistent growth, highlighting effective customer engagement and operational execution.
+MedX recorded a strong performance in 2024, achieving a total revenue of **$12.21M**, with month-over-month (MoM) growth of **10.31%**. Previous month (PM) revenue stood at **$11.07M**. Sales volumes and orders also showed consistent growth, highlighting effective customer engagement and operational execution.
 
 #### Revenue by Customer Type:
   
@@ -111,14 +111,36 @@ Use current growth trends to set accurate sales and supply chain projections for
 
 :small_blue_diamond: The top 10 distributors perform within a comparable revenue range, indicating a balanced contribution across key partners.
 
-### :bulb: Business Recommendations
+### :bulb: Recommendations
 1.	Investigate why Antibiotics underperform. Consider adjusting marketing or pricing strategies or discontinuing the product.
 2.	Assess why Warehouse C handles most orders—consider scaling its operations or reallocating resources to Warehouse B for balance.
 3.	Sales Rep Productivity: With 20 representatives handling 200 products, consider implementing product specialization or assigning reps by region to enhance efficiency.
 4.	Reinforce relationships with top-performing distributors and introduce incentive programs to boost performance among mid-tier partners.
 
 
+### Sales Trend 
 
+:small_blue_diamond: Revenue fluctuates between $0.9M and $1.1M, with peaks in April, July and December, possibly due to seasonal trends or successful campaigns. A sharp dip occurs in June, suggesting a potential drop in demand or an operational issue.
+
+:small_blue_diamond: October had the highest orders (454), while maximum cancellations were in November (167). All the months had substantial cancellations, indicating possible product availability issues or customer dissatisfaction. 
+
+:small_blue_diamond: A consistent number of pending orders each month suggests potential delays in fulfillment, an area for improvement in logistics.
+
+:small_blue_diamond: David Cox is the top performer with $704K revenue and 273 orders—his strategies could be analyzed and leveraged to boost team performance. Robert Bauer, at the bottom with $520K revenue and 228 orders, may need targeted coaching or motivation.
+
+### :bulb: Recommendations
+1. Boost June Sales: Identify reasons for the slump and introduce discounts or targeted promotions to counteract it.
+2. Reduce Cancellations: Investigate common cancellation reasons and refine inventory management or customer engagement.
+3. Optimize fulfillment processes to lower pending orders and improve delivery speed.
+4. Empower Low Performers: Offer training, mentorship, or incentives to encourage growth and improve sales rep productivity.
+
+
+## :round_pushpin: Conclusion
+MedX demonstrated a solid performance in 2024, achieving strong revenue growth, consistent sales volumes, and high engagement across key customer segments. Clinics and hospitals were the primary revenue drivers, supported by a small but valuable customer base. However, there remains untapped potential in underserved geographic regions and among mid-tier customer types.
+Operationally, there are clear opportunities to boost efficiency—especially in sales rep deployment, warehouse load balancing, and order fulfillment. Strategic refinement in distributor partnerships, discount management, and product focus (especially underperforming categories like antibiotics) will be critical to sustaining growth.
+To maintain momentum into **2025**, MedX should focus on geographic expansion, deepen relationships with top clients and high-value customer segments, optimize internal operations, and use data-driven forecasting to align inventory and sales targets. With the right strategic adjustments, MedX is well-positioned to scale its impact and profitability across a broader market.
+ 
+![Thank you](https://github.com/user-attachments/assets/4fdea15a-1789-4149-8a75-088cdae7f530)
 
 
 
