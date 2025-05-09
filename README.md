@@ -46,13 +46,13 @@ Created additional columns and calculated measures with DAX functions. Finally, 
 
 MedX recorded a strong performance in 2024, achieving a total revenue of $12.21M, with month-over-month (MoM) growth of 10.31%. Previous month (PM) revenue stood at $11.07M. Sales volumes and orders also showed consistent growth, highlighting effective customer engagement and operational execution.
 
-- Revenue by Customer Type:
+#### Revenue by Customer Type:
   
 :small_blue_diamond: Clinics (27.9%) and Hospitals (27.5%) are the top contributors to revenue.
 
 :small_blue_diamond: Wholesalers (23.7%) and Pharmacies (20.9%) follow.
 
-- Customer Base: 
+#### Customer Base: 
 
 :small_blue_diamond: Total Customers: 50
 
@@ -62,12 +62,16 @@ MedX recorded a strong performance in 2024, achieving a total revenue of $12.21M
 
 → A relatively small but possibly high-value customer base with a moderate discount strategy.
 
-- Top Customers
-Top 10 customers each generate $275K–$357K, accounting for a significant portion of revenue.
-Top customer: Rivera with $357K revenue.
+#### Top Customers
+
+:small_blue_diamond: Top 10 customers each generate $275K–$357K, accounting for a significant portion of revenue.
+
+:small_blue_diamond: Top customer: Rivera with $357K revenue.
+
 → There seems to be heavy reliance on a few key clients.
--
+
 - Geographic Revenue Distribution
+
 Michigan ($1.667M) and New York ($1,665M) generated the highest revenue. States like Nevada, Texas, Illinois, Montana, California, Arizona and Georgia also show strong engagement.
 Several states show no activity — signaling large space for expansion.
 
