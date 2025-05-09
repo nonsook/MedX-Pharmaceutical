@@ -1,7 +1,8 @@
 # MedX-Pharma
 Transformation of MedX Pharma flat file data into a normalized and structured data model and interactive dashboard design using Power BI
 
-![medx building](https://github.com/user-attachments/assets/cb0e3de6-2238-4d4e-b47a-8a76e1f57c63)
+![medx building](https://github.com/user-attachments/assets/51d798e8-8843-4efc-a6ae-f55276892d31)
+
 
 
 ## Business Overview
