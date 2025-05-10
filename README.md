@@ -21,9 +21,18 @@ The absence of a centralized data system and reporting solution prevents managem
 - Enable data-driven decision-making and improve visibility into sales and distribution operations.
 
 ## Methodology
-I cleaned the dataset on Excel and imported into Power BI. I developed a data model with the dataset, creating fact and dimension tables with an additional date dimension table. 
-Established connections via primary and foreign keys.
-Created additional columns and calculated measures with DAX functions. Finally, designed interactive reporting dashboards to support strategic decision-making and operational efficiency. 
+To transform the data, I:
+
+✅ Cleaned and structured the dataset in Excel
+
+✅ Extracted to Power BI’s Power Query 
+
+✅ Transformed, and built a data model using fact and dimension tables (including a custom date dimension) and established connections via primary and foreign keys.
+
+✅ Engineered calculated columns and DAX measures for advanced analytics
+
+✅ Finally designed 3 interactive dashboards for strategic visibility and operational clarity
+ 
 
 ## Data Model
 
