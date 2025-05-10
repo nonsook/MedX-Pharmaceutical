@@ -127,7 +127,7 @@ Use current growth trends to set accurate sales and supply chain projections for
 4.	Reinforce relationships with top-performing distributors and introduce incentive programs to boost performance among mid-tier partners.
 
 
-### Sales Trend 
+### Sales Trend Analysis
 
 :small_blue_diamond: Revenue fluctuates between $0.9M and $1.1M, with peaks in April, July and December, possibly due to seasonal trends or successful campaigns. A sharp dip occurs in June, suggesting a potential drop in demand or an operational issue.
 
